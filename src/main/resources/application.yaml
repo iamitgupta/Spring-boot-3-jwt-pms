@@ -44,7 +44,7 @@ springdoc:
 sonar:
   host-url: http://localhost:9000
   projectName: Product-Service
-  project-key: pms-key
+  project-key: squ_d52cad20eff95e4567a5a5b8c0ba121cbb508edf
   sources: src/main/java
   language: java
   java:
